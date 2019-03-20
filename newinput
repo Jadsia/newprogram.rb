@@ -1,0 +1,6 @@
+puts "What is your favorite thing?"
+thing = gets.chomp
+puts "I like #{thing} too!"
+
+greeting = "I like #{thing} too!"
+puts greeting 
