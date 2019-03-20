@@ -1,0 +1,6 @@
+# New ruby script program
+# M Young March 12 2019
+
+puts "I hope this works"
+puts "I only know one Ruby command"
+puts "ta-da!"
