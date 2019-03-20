@@ -1,0 +1,3 @@
+puts "enter any length in inches"
+inches = gets.chomp.to_i
+puts (inches * 2.4)
