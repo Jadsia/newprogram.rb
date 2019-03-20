@@ -1,1 +1,14 @@
-def lbs_to_kg(1 * 2.205)
+def lbs_to_kg
+ return gets * lbs_to_kg
+end
+
+def lbs
+  lbs = gets
+  kilos = lbs * 2.205
+  
+  return lbs * kilos
+end
+
+puts "enter any number of pounds"
+  pounds = gets.chomp.to_i
+puts "#{pounds * 2.205}"
